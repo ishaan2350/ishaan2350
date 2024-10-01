@@ -1,5 +1,9 @@
 • 👋 Hi, I’m Ishaan Singh
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/ishaansingh757/)
+
 • 🕸️ Web Development Enthusiast
+
 • 🎓 Pursuing BTech with specialization in Computer Science Engineering at SRM University.
 - 
 
