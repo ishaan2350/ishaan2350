@@ -4,10 +4,9 @@
 
 
 ## :wave: About Me
-- 🖥 Cybersecurity Enthusiast.
+- 🖥 Web Developer Enthusiast.
 - 🎓 Pursuing BTech with specialization in Computer Science Engineering at SRM University.
-- 🌐 Welcome to my personal website! Feel free to explore and learn more about me and my projects. [Visit my website](https://lohitkolluri.tech)
-- 📄 Looking for details? Download my resume.
+
 
 
 
