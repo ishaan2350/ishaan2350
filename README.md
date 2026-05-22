@@ -4,7 +4,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO_LINK)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](YOUR_TWITTER_LINK)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ishaan2350)
 
 </div>
