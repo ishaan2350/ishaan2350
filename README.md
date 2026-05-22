@@ -58,15 +58,6 @@ Software Development Engineer | Java • Spring Boot • DevOps • Cloud
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ishaan2350&show_icons=true&theme=tokyonight" />
-  
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ishaan2350&layout=compact&theme=tokyonight" />
-</p>
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
