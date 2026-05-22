@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Ishaan Singh</h1>
-<h3 align="center">SDE Aspirant | Java Backend • Spring Boot • Cloud • DevOps</h3>
+<h3 align="center">Software Development Engineer | Java • Spring Boot • DevOps • Cloud</h3>
 
 <div align="center">
 
